@@ -1,2 +1,2 @@
-# teachers
+# LoremIpsum.Net
 Тествое задание
